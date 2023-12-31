@@ -1,0 +1,6 @@
+{
+    "env" : {
+        "ATLAS_MONGO_SERVERAPI_PW" : "root",
+        "JWT_KEY" : "root"
+    }
+}
